@@ -1,7 +1,7 @@
 class Config:
     # Bot settings
     BOT_TOKEN = "8088872046:AAEAspAH2nI53fuMG2E7z4RKP787DmkX848"
-    ADMIN_ID = 8088872046
+    ADMIN_ID = 7397653738
     ADMIN_USERNAME = "admin"  # @Axiy_digital @
     
     # Wallet
