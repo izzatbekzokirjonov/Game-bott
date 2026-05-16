@@ -2,10 +2,10 @@ class Config:
     # Bot settings
     BOT_TOKEN = "8088872046:AAEAspAH2nI53fuMG2E7z4RKP787DmkX848"
     ADMIN_ID = 8088872046
-    ADMIN_USERNAME = "admin"  # @username without @
+    ADMIN_USERNAME = "admin"  # @Axiy_digital @
     
     # Wallet
-    TON_WALLET = "YOUR_TON_WALLET_ADDRESS_HERE"  # O'z TON manzilingizni kiriting
+    TON_WALLET = "YOUR_TON_WALLET_ADDRESS_HERE"  # UQAhs70CjT6iMvzwi4FCsH6mqYRIZ1xB9n36TauQLn5tvNe5
     
     # Game settings
     BASE_WIN_RATE = 60.0      # Boshlang'ich yutish foizi (%)
